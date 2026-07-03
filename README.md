@@ -1,4 +1,4 @@
-```aegis/
+```.aegis/
 ├── Cargo.toml
 ├── rust-toolchain.toml
 ├── .cargo/
@@ -23,3 +23,29 @@
 ├── tests/
 ├── docs/
 └── examples/
+aegis/
+├── .github/
+│   └── workflows/
+├── assets/
+├── benchmarks/
+├── configs/
+├── crates/
+├── docs/
+├── examples/
+├── fuzz/
+├── plugins/
+├── policies/
+├── rules/
+├── schemas/
+├── scripts/
+├── sdk/
+├── tests/
+├── tools/
+├── Cargo.toml
+├── rust-toolchain.toml
+├── LICENSE
+├── README.md
+├── SECURITY.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── CHANGELOG.md
