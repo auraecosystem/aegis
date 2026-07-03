@@ -1,3 +1,16 @@
+aegis init
+aegis scan
+aegis verify
+aegis doctor
+aegis audit
+aegis protect
+aegis report
+aegis policy
+aegis plugin
+aegis sign
+aegis sbom
+aegis update
+aegis version
 cargo run -p aegis-cli -- init
 cargo run -p aegis-cli -- doctor
 cargo run -p aegis-cli -- scan
