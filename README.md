@@ -49,3 +49,26 @@ aegis/
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 └── CHANGELOG.md
+```
+```txt
+Initialize
+    │
+Load Config
+    │
+Load Policies
+    │
+Load Plugins
+    │
+Discover Files
+    │
+Integrity Scan
+    │
+Secret Scan
+    │
+Dependency Scan
+    │
+Policy Evaluation
+    │
+Risk Scoring
+    │
+Report Generation
