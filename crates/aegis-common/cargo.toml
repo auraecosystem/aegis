@@ -1,0 +1,22 @@
+[package]
+name = "aegis-common"
+version = "0.1.0"
+edition = "2026"
+description = "Shared types and utilities for Aegis security platform"
+license = "Apache-2.0"
+authors = ["Aegis Developers"]
+
+[dependencies]
+serde = { workspace = true, features = ["derive"] }
+serde_json = { workspace = true }
+thiserror = { workspace = true }
+anyhow = { workspace = true }
+tracing = { workspace = true }
+uuid = { workspace = true }
+chrono = { workspace = true }
+
+blake3 = { workspace = true }
+sha2 = { workspace = true }
+
+walkdir = { workspace = true }
+ignore = { workspace = true }
