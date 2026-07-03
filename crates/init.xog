@@ -1,0 +1,25 @@
+crates/
+├── aegis-kernel
+├── aegis-cli
+├── aegis-api
+├── aegis-config
+├── aegis-policy
+├── aegis-rules
+├── aegis-plugin
+├── aegis-events
+├── aegis-common
+├── aegis-crypto
+├── aegis-integrity
+├── aegis-filesystem
+├── aegis-network
+├── aegis-process
+├── aegis-memory
+├── aegis-secrets
+├── aegis-dependencies
+├── aegis-git
+├── aegis-audit
+├── aegis-report
+├── aegis-sbom
+├── aegis-signing
+├── aegis-ai
+└── aegis-sdk
